@@ -1,7 +1,7 @@
 const Menu = [
     {
       id: 1,
-      image: "/images/maggi.jpg",
+      image: "./images/maggi.jpg",
       name: "maggi",
       category: "breakfast",
       price: "12₹",
@@ -11,7 +11,7 @@ const Menu = [
   
     {
       id: 2,
-      image: "/images/allupakoda.jpg",
+      image: "./images/allupakoda.jpg",
       name: "potatoFritters",
       category: "snacks",
       price: "20₹",
@@ -20,7 +20,7 @@ const Menu = [
     },
     {
       id: 3,
-      image: "/images/corn.jpg",
+      image: "./images/corn.jpg",
       name: "corn",
       category: "breakfast",
       price: "10₹",
@@ -29,7 +29,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "/images/chola.jpg",
+      image: "./images/chola.jpg",
       name: "chole",
       category: "lunch",
       price: "50₹",
@@ -38,7 +38,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "/images/pizza.jpg",
+      image: "./images/pizza.jpg",
       name: "pizza",
       category: "snacks",
       price: "80₹",
@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "/images/thali.jpg",
+      image: "./images/thali.jpg",
       name: "veg meal",
       category: "dinner",
       price: "180₹",
@@ -56,7 +56,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "/images/sweet.jpg",
+      image: "./images/sweet.jpg",
       name: "Sweets",
       category: "dinner",
       price: "60₹",
@@ -65,7 +65,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "/images/rajmarice.jpg",
+      image: "./images/rajmarice.jpg",
       name: "Rajma Rice",
       category: "lunch",
       price: "60₹",
@@ -74,7 +74,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "/images/samosa.jpg",
+      image: "./images/samosa.jpg",
       name: "samaso",
       category: "snacks",
       price: "10₹",
@@ -83,7 +83,7 @@ const Menu = [
     },
     {
       id: 10,
-      image: "/images/momo.jpg",
+      image: "./images/momo.jpg",
       name: "dumplings",
       category: "snacks",
       price: "100₹",
@@ -92,7 +92,7 @@ const Menu = [
     },
     {
       id: 11,
-      image: "/images/meal.jpg",
+      image: "./images/meal.jpg",
       name: "Meal",
       category: "lunch",
       price: "190₹",
@@ -101,7 +101,7 @@ const Menu = [
     },
     {
       id: 12,
-      image: "/images/paubhaji.jpg",
+      image: "./images/paubhaji.jpg",
       name: "PavBhaji",
       category: "snacks",
       price: "160₹",
@@ -110,7 +110,7 @@ const Menu = [
     },
     {
       id: 13,
-      image: "/images/puri.jpg",
+      image: "./images/puri.jpg",
       name: "Puri",
       category: "breakfast",
       price: "10₹",
@@ -119,7 +119,7 @@ const Menu = [
     },
     {
       id: 14,
-      image: "/images/vegthali.jpg",
+      image: "./images/vegthali.jpg",
       name: "Veg Thali",
       category: "dinner",
       price: "190₹",
